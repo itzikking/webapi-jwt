@@ -1,0 +1,29 @@
+<div class="login container">
+  <div  class="container w3-center w3-animate-top">
+  <div *ngIf="IsLogIn" class="alert alert-danger" role="alert">
+    <span>{{IsLogIn.message}}</span>
+  </div>
+  </div>
+
+  <h1>Login</h1>
+  <hr>
+  <form [formGroup]="login" (ngSubmit)="onSubmit()">
+
+  <div>
+    <label for="username">
+      <span><h6>Username</h6></span>
+    </label>
+    <input  id="username" class="form-control" type="text" formControlName="username" placeholder="Enter Username">
+  </div>
+  <br>
+  <div>
+    <label for="password">
+      <span><h6>Password</h6></span>
+    </label>
+    <input id="password" class="form-control" type="text" formControlName="password"  placeholder="Enter Password">
+  </div>
+  <hr>
+  <button class="btn btn-primary" style="width: 100%;" type="submit">Login</button>
+
+</form>
+</div>
