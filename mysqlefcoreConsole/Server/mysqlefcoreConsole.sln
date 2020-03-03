@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mysqlefcoreConsole", "mysqlefcoreConsole\mysqlefcoreConsole.csproj", "{461180A2-BA3C-4462-B5B1-8F6069375AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webapi-jwt", "Webapi-jwt\Webapi-jwt.csproj", "{2E734CFB-FC5A-4077-89AB-C77381CBED7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461180A2-BA3C-4462-B5B1-8F6069375AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461180A2-BA3C-4462-B5B1-8F6069375AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461180A2-BA3C-4462-B5B1-8F6069375AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461180A2-BA3C-4462-B5B1-8F6069375AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E734CFB-FC5A-4077-89AB-C77381CBED7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E734CFB-FC5A-4077-89AB-C77381CBED7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E734CFB-FC5A-4077-89AB-C77381CBED7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E734CFB-FC5A-4077-89AB-C77381CBED7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {395F6181-EC41-4B1C-AC1E-DD732DE78810}
+	EndGlobalSection
+EndGlobal

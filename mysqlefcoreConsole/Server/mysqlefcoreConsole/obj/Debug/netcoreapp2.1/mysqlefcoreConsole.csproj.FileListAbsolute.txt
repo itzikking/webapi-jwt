@@ -1,0 +1,10 @@
+C:\Users\Itzik\source\repos\mysqlefcoreConsole\mysqlefcoreConsole\bin\Debug\netcoreapp2.1\mysqlefcoreConsole.deps.json
+C:\Users\Itzik\source\repos\mysqlefcoreConsole\mysqlefcoreConsole\bin\Debug\netcoreapp2.1\mysqlefcoreConsole.runtimeconfig.json
+C:\Users\Itzik\source\repos\mysqlefcoreConsole\mysqlefcoreConsole\bin\Debug\netcoreapp2.1\mysqlefcoreConsole.runtimeconfig.dev.json
+C:\Users\Itzik\source\repos\mysqlefcoreConsole\mysqlefcoreConsole\bin\Debug\netcoreapp2.1\mysqlefcoreConsole.dll
+C:\Users\Itzik\source\repos\mysqlefcoreConsole\mysqlefcoreConsole\bin\Debug\netcoreapp2.1\mysqlefcoreConsole.pdb
+C:\Users\Itzik\source\repos\mysqlefcoreConsole\mysqlefcoreConsole\obj\Debug\netcoreapp2.1\mysqlefcoreConsole.csprojAssemblyReference.cache
+C:\Users\Itzik\source\repos\mysqlefcoreConsole\mysqlefcoreConsole\obj\Debug\netcoreapp2.1\mysqlefcoreConsole.AssemblyInfoInputs.cache
+C:\Users\Itzik\source\repos\mysqlefcoreConsole\mysqlefcoreConsole\obj\Debug\netcoreapp2.1\mysqlefcoreConsole.AssemblyInfo.cs
+C:\Users\Itzik\source\repos\mysqlefcoreConsole\mysqlefcoreConsole\obj\Debug\netcoreapp2.1\mysqlefcoreConsole.dll
+C:\Users\Itzik\source\repos\mysqlefcoreConsole\mysqlefcoreConsole\obj\Debug\netcoreapp2.1\mysqlefcoreConsole.pdb
